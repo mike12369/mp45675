@@ -1,0 +1,32 @@
+    1  mk mp45675
+    2  mkdir mp45675
+    3  cd
+    4  cd mp45675/
+    5  git init
+    6  git remote add origin https://github.com/mike12369/mp45675.git
+    7  git push -u origin master
+    8  ls
+    9  touch README.md
+   10  git add .
+   11  git commit -m "First commit"
+   12  git status
+   13  git log
+   14  git push -u origin master
+   15  pwd
+   16  ls -a
+   17  er
+   18  Initial commit
+   19  er
+   20  Initial commit
+   21  er
+   22  Initial commit
+   23  er
+   24  Initial commit
+   25  er
+   26  Initial commit
+   27  er
+   28  Initial commit
+   29  er
+   30  Initial commit
+   31  history
+   32  history > mp45675_hist
